@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Exceptions
+!Data_Jobs_Project_Final.pbix
+!Readme.md
+!.gitignore
+!assets
