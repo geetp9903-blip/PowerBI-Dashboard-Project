@@ -24,8 +24,8 @@ The core idea of this project is **guided exploration**:
 ## 🧭 Dashboard Structure
 
 ### 📄 Page 1: Job Market Overview (Decision Layer)
-![Image preview](assets/Job%20Count%20View.png)
-![Image preview 2](assets/Median%20Salary%20View.png)
+![Image preview](Job%20Count%20View.png)
+![Image preview 2](Median%20Salary%20View.png)
 This page provides a **macro-level view** of the data job market and helps users identify roles worth exploring further.
 
 #### Key Metrics
@@ -51,7 +51,7 @@ This page provides a **macro-level view** of the data job market and helps users
 ---
 
 ### 📄 Page 2: Job Title Deep Dive (Insight Layer)
-![Image preview](assets/Drill%20Through%20Page.png)
+![Image preview](Drill%20Through%20Page.png)
 This page provides **role-specific insights** for the selected job title.
 
 #### Global Job Distribution
